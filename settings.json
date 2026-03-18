@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "no_gore.aternos.me",
-    "port": 20007,
+    "ip": "cosmic_rift.aternos.me",
+    "port": 34073,
     "version": "",
     "try-creative": false
   },
